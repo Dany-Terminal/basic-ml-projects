@@ -1,0 +1,4 @@
+*.ipynb_gitignore
+venv/
+__pycache__
+*.zip
